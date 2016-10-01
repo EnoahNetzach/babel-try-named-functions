@@ -19,9 +19,7 @@
   },
   "devDependencies": {
     "babel-cli": "^6.16.0",
-    "babel-helper-named-functions": "0.0.1",
-    "babel-plugin-syntax-named-functions": "0.0.1",
-    "babel-plugin-transform-named-functions": "0.0.1",
+    "babel-plugin-transform-named-functions": "^0.0.2",
     "babel-preset-es2015": "^6.16.0",
     "babylon": "EnoahNetzach/babylon"
   }
