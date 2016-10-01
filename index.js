@@ -18,6 +18,8 @@ function§ answer(l, u, e, a = 42) {
   return `The Answer to ${l} ${u} and ${e} is ${a}.`
 }
 
+const u = 666
+
 const p1 = answer(u='the Universe')
 const p2 = p1(l='Love')
 const p3 = p2(l='Life')
